@@ -11,7 +11,7 @@ In this codealong lab, we'll build a Sinatra application that will allow users t
 3. Build a user sign-up flow with a Users model that signs in and logs in a user
 4. Log out the user by clearing the `session` hash
 
-## User Authorization: Using Sessions
+## User Authorization: Using Sessions 
 
 ### Logging In
 
